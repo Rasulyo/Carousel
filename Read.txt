@@ -1,3 +1,0 @@
-Download the file or clone 
-after downloading file open it Code Editing(vs code)
-write on terminal " npm i " to install modules and after " npm start " to see carousel on localhost:3000
