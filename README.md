@@ -2,7 +2,9 @@
 
 
 This project was bootstrapped with Webpack
-npm install to install node modules
+
+### `npm install` 
+to install node modules
 In the project directory, you can run:
 
 ### `npm start`
